@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "RabbitSender\\RabbitSender.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RabbitReceiver1\\RabbitReceiver1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RabbitReceiver2\\RabbitReceiver2.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
